@@ -286,6 +286,7 @@ header p {
     background-color: #15085e;
     color: white;
     height: 200px;
+    display: flex;
 }
 .foot{
     display: flex;
